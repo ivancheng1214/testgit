@@ -1,5 +1,5 @@
 function app() {
-	console.log("this is app");
+	console.log("hello there!");
 }
 
 app();
